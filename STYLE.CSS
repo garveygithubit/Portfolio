@@ -10,7 +10,7 @@ html {
   scroll-behavior: smooth;
 }
 a {
-  text-decoration: none;
+  text-decoration: none;  
 }
 .container {
   min-height: 100vh;
